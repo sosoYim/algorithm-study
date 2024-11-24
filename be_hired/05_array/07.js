@@ -49,3 +49,6 @@ function solution(dirs) {
 
   return visited.size / 2;
 }
+
+// console.log(solution("ULURRDLLU")) => 7
+// console.log(solution("LULLLLLLU")) => 7
