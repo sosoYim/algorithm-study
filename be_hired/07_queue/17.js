@@ -1,3 +1,5 @@
+// https://school.programmers.co.kr/learn/courses/30/lessons/159994?language=javascript
+
 class Queue {
   items = [];
   front = 0;
